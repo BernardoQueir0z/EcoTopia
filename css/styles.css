@@ -11405,6 +11405,11 @@ header.masthead h1, header.masthead .h1 {
   opacity: 0.1;
 }
 
+.qr-code{
+  padding-top: 2em;
+  width: 30%;
+}
+
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
